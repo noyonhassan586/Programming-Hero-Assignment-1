@@ -1,4 +1,4 @@
-# 🌟 New Bangladesh
+# 🇧🇩 New Bangladesh
 
 A responsive landing page designed for desktop devices using **HTML5** and **raw CSS3**. This project envisions a brighter future for Bangladesh by highlighting national values, social awareness, and active engagement through design.
 
