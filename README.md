@@ -1,42 +1,50 @@
-# Bangladesh 2.0 - Assignment 1
+# 🌟 New Bangladesh
 
-Welcome to **Bangladesh 2.0**, an HTML & CSS-based website created as part of an assignment. This project presents a simple yet structured webpage with a **Navbar, Main Section, and Footer**.
+A responsive landing page designed for desktop devices using **HTML5** and **raw CSS3**. This project envisions a brighter future for Bangladesh by highlighting national values, social awareness, and active engagement through design.
 
-## 🌐 Live Demo
-🔗 [Visit Bangladesh 2.0](https://noyonhassan586.github.io/Programming-Hero-Assignment-1/)
+🔗 **Live Site**: [Visit Here](https://rb.gy/g32gaq)
 
-## 📁 Project Structure
-```
-Bangladesh-2.0/
-│-- index.html       # Main HTML file
-│-- style.css        # External CSS file
-│-- assets/          # Folder for additional resources (if any)
-│-- images/          # Folder containing UI images
-```
-
-## 🎨 Features
-- **Navbar**: A well-structured navigation bar.
-- **Main Section**: Styled homepage with relevant content.
-- **Footer**: Contains essential website information.
-- **Responsive Design**: Optimized for different screen sizes.
-
-## 🛠️ Technologies Used
-- **HTML** (index.html) - Structuring the webpage.
-- **CSS** (style.css) - Styling the webpage.
-
-## 📥 Installation & Usage
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/noyonhassan586/Programming-Hero-Assignment-1.git
-   ```
-2. Open `index.html` in your browser.
-3. Modify `style.css` to customize styles as needed.
-
-## 📜 License
-This project is for educational purposes only.
-
-## 🤝 Contribution
-If you want to contribute, feel free to fork the repository and submit a pull request.
+📁 **Repository**: [GitHub Link](https://github.com/noyonhassan586/Programming-Hero-Assignment-1)
 
 ---
-**Created by:** [Md. Noyon Hassan](https://github.com/noyonhassan586)
+
+## 📌 Features
+
+1. **Banner Section**  
+   - A visually appealing banner at the top introducing the theme of the website.
+
+2. **Vision of Future**  
+   - Showcases an inspiring vision for the future of Bangladesh.
+
+3. **Dr. Muhammad Yunus Quote Section**  
+   - Highlights a meaningful quote from Nobel Laureate Dr. Yunus to inspire visitors.
+
+4. **Recent News Section**  
+   - Displays current and relevant updates or headlines to keep users informed.
+
+5. **Donate Today Section**  
+   - Encourages users to support the cause through donations.
+
+6. **Subscribe Newsletter Section**  
+   - Allows users to subscribe for future updates and engagement.
+
+7. **Footer with Social Links**  
+   - Includes essential contact information and social media links.
+
+---
+
+## 💻 Technologies Used
+
+- HTML5
+- CSS3 (Raw, no frameworks)
+- Fully responsive **for desktop devices**
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/noyonhassan586/Programming-Hero-Assignment-1
